@@ -2,7 +2,7 @@
 
 #### 已部署上线：
 
-- [点此跳转试玩](https://app5212.acapp.acwing.com.cn/kof/)
+- [点此跳转试玩](https://iamsjw.com/kof/)
 
 #### 操作方法
 
